@@ -1,3 +1,6 @@
+0.61 Mon Dec 19 22:19:00 NZDT 2011
+    - Version bump to resync CPAN - previous upload forgot to bump $VERSION :-(
+
 0.60 Thu Dec  8 13:14:00 NZDT 2011
     - Bug: Perform the same changes as last release but this time to writes within _send()
 
